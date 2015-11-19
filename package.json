@@ -1,0 +1,14 @@
+{
+  "name": "rashtache",
+  "version": "0.0.0",
+  "description": "Quickly load Mustache partials and data, and render templates",
+  "author": "Tim Swalling <tim@timswalling.com>",
+  "license": "ISC",
+  "repository": "timswalling/rashtache",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-mustache-plus": "^1.0.1",
+    "lodash": "^3.10.1"
+  }
+}
